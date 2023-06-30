@@ -11,10 +11,6 @@ const coursefeatures=() =>{
 
 
       </div> 
-      
-        
-      
-    );
-
+      );
 };
 export default coursefeatures;
